@@ -1,5 +1,12 @@
 body {
+  background-color: whitesmoke;
   margin: 0;
+  background-image: url(./background/pic.png);
+
+  height: 87vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
